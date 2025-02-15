@@ -2,12 +2,12 @@
 
 @font-face {
     font-family: "Oozing";
-    src: url(oozing.ttf);
+    src: url(fonts/oozing.ttf);
 }
 
 @font-face {
     font-family: "Consola Mono";
-    src: url(ConsolaMono-Book.ttf);
+    src: url(fonts/ConsolaMono-Book.ttf);
 }
 
 :root {
